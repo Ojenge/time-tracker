@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3917847055">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - database.sqlite [2]" uuid="0cff9b2c-f0e2-4f82-a3f9-c3425b13fc78">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:/private/var/www/time-tracker-2/storage/database.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
